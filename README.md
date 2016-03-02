@@ -1,2 +1,3 @@
-# hello-word
-Just another repository
+# hello-world
+
+学习github用
